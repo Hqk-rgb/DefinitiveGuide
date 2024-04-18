@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyButtonStyle" parent="Widget.AppCompat.Button">
+        <!-- 按钮背景色 -->
+<!--        <item name="android:background">#6495ED</item>-->
+        <!-- 按钮文本颜色 -->
+<!--        <item name="android:textColor">#F0FFFF</item>-->
+<!--        &lt;!&ndash; 使用自定义背景 &ndash;&gt;-->
+<!--        <item name="android:background">@drawable/button_background</item>-->
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="buttonBarNegativeButtonStyle" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <!-- 定义按钮的样式属性 -->
+        <item name="android:background">#6495ED</item>
+        <item name="android:textColor">#F0FFFF</item>
+        <!-- 添加其他属性 -->
+    </style>
+</resources>
+

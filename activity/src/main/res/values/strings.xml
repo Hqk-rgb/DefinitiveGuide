@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="question_one">召唤师技能净化能否解影流之主的大招？</string>
+    <string name="question_two">雪人骑士的Q能否对英雄造成伤害</string>
+    <string name="question_three">莫甘娜E技能的魔法盾能否阻挡厄加特R技能的处决?</string>
+    <string name="question_four">提莫中了小鱼人的R技能死亡后，提莫的尸体还在吗?</string>
+    <string name="question_five">机器人的Q伸出的是左手吗?</string>
+    <string name="question_six">提莫的Q能致盲盲僧吗?</string>
+    <string name="question_seven">潮汐海灵菲兹的英雄台词“撒了尿就想走”是外语?</string>
+    <string name="question_eight">英雄联盟中的FPS代表的是帧数?</string>
+    <string name="question_nine">我在S8赛季是钻四，是否有资格申请进入峡谷之巅?</string>
+    <string name="question_ten">我买了打野刀还能买工资装吗?</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect!</string>
+    <string name="next">next</string>
+
+</resources>
